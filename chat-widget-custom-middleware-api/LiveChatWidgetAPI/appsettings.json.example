@@ -1,0 +1,21 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ApplicationInsights": {
+    "ConnectionString": ""
+  },
+  "AzureAd": {
+    "TenantId": "",
+    "ClientId": "",
+    "ClientSecret": "",
+    "Scope": ""
+  },
+  "D365": {
+    "BaseUrl": ""
+  }
+}
